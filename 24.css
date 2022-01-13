@@ -1,0 +1,124 @@
+.first-container{
+    display: flex;
+
+}
+.container-item {
+    border: 20px solid red;
+    background-color: black;
+    color: white;
+    padding-top:  50px;
+    padding-bottom:  50px; 
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: 40px;
+    margin-top: 70px;
+    margin-right: 2200px;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    border-radius: 100px;
+    font-size: 100px;
+
+}
+.mid-item{
+    border: 20px solid red;
+    background-color: black;
+    color: white;
+    padding-top:  50px;
+    padding-bottom:  50px; 
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: 550px;
+    margin-top: -30px;
+    margin-right: 2700px;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    border-radius: 100px;
+    font-size: 100px;
+}
+
+.third-item{ border: 20px solid red;
+    background-color: black;
+    color: white;
+    padding-top:  100px;
+    padding-bottom:  50px; 
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 3500px;
+    margin-top: -60px;
+    margin-right: 200px;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    border-radius: 100px;
+    font-size: 100px;
+}
+
+
+.circle{
+    
+    background-color: green;
+    border: 10px solid goldenrod;
+    height: 1100px;
+    width: 1000px;
+    border-radius: 50%;
+    padding-top: 150px;
+    padding-bottom: 10px;
+    padding-left: 90px;
+    padding-right: 90px;
+    margin-top: 0px ;
+    margin-left: 400px;
+    font-size: 75px;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+.form{
+    background-color: silver;
+    border: dotted red 20px;
+    margin-left: 3000px;
+    margin-top: -100px;
+    margin-right: 10px;
+    text-align: center;
+    width: 1200px;
+    color: red;
+    font-size: 50px;
+    position: relative;
+}
+.menu{
+    border: 10px solid red;
+    background-color: black;
+    color: white;
+    padding-top:  50px;
+    padding-bottom:  50px; 
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: 2100px;
+    margin-top: 70px;
+    margin-right: 2200px;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    border-radius: 100px;
+    font-size: 150px;
+}
+.flex-container{
+    display: flex;
+    padding: 4rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+    bottom: 10px;
+}
+.flex-item{
+    background-color: green;
+    padding: 150px;
+    margin:30px;
+    border: 30px solid red;
+    border-radius: 50px;
+    font-size: 90px;
+    
+    
+}
